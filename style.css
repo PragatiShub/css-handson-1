@@ -1,0 +1,29 @@
+h1{
+    color: orange;
+}
+
+h2{
+    color : orangered;
+     font-style:italic;
+}
+
+div{
+    line-height: 2;
+    color:rgb(255, 8, 0);
+}
+
+.col{
+    background-color: yellow;
+}
+
+#line{
+    text-decoration: line-through;
+}
+
+#n{
+    text-decoration: underline;
+}
+.words
+{letter-spacing: 1em;
+
+}
